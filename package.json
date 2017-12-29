@@ -1,0 +1,21 @@
+{
+  "name": "saml2",
+  "version": "1.0.0",
+  "description": "Implementación de Saml2.0 en express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/urayi/saml2.git"
+  },
+  "author": "José Polanco",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "saml2-js": "^2.0.1"
+  }
+}
